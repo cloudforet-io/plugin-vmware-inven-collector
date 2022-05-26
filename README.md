@@ -1,0 +1,1 @@
+# plugin-vmware-inven-collector
